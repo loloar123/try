@@ -1,1 +1,2 @@
-
+Scanner in = new Scanner(System.in);
+System.out.println("Whats your name?");
